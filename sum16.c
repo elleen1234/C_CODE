@@ -9,5 +9,6 @@ int main()
 	printf("sum is %d\n",sum);
 	return 0;
 	printf("enter new line");
+	printf("from branch text");
 }
 	
